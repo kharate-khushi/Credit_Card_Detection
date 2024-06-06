@@ -18,7 +18,7 @@ License
 The primary goal of this project is to build a robust model to accurately detect fraudulent credit card transactions. We have implemented and compared three different machine learning algorithms: Logistic Regression, Support Vector Classifier (SVC), and Random Forest Classifier.
 
 ## Dataset
-The dataset used in this project is available on Kaggle: Credit Card Fraud Detection Dataset.
+The dataset used in this project is available on Kaggle: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 
 Number of transactions: 284,807
 Number of fraudulent transactions: 492
